@@ -1,2 +1,2 @@
 # NextionESP
-A Modified Nextion Library for Software Serial for ESP8266
+A Modified Nextion Library for ESP8266 with Software Serial support added
